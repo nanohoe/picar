@@ -5,3 +5,4 @@ Addition of ultrasound sensors via Arduino µC is planned.
 
 Uses raspicam_node from https://github.com/UbiquityRobotics/raspicam_node
 
+Adafruit libraries from https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/tree/legacy under their own license included within in the library code files.
